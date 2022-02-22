@@ -2,6 +2,8 @@ Favorite Foods:
 sinigang
 kare kare
 fried chicken
+sausages
+pakbet
 
 Favorite Movies:
 Forrest Gump
@@ -11,5 +13,8 @@ Marvel Movies
 Favorite drinks:
 coffee
 milktea
-sausages
-pakbet
+soda
+paulaner
+stella artois
+hoegarden
+guinness
