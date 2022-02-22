@@ -10,17 +10,21 @@
         <title>sample repo</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="app.css">
     </head>
     <body>
-        <h1>
-            sample repo for testing github pages
-        </h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-            In provident, voluptas, id blanditiis ad quo debitis velit 
-            obcaecati iste nostrum porro dolores rem nulla cupiditate placeat. 
-            Incidunt, tempora maiores. Facere!
-        </p>
+        <svg viewBox="0 0 600 300">
+            <!-- Symbol-->
+            <symbol id="s-text">
+              <text text-anchor="middle" x="50%" y="50%" dy=".35em">Sample Repo</text>
+            </symbol>
+            <!-- Duplicate symbols-->
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+            <use class="text" xlink:href="#s-text"></use>
+          </svg>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
