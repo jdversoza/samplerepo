@@ -7,3 +7,7 @@ Favorite Movies:
 Forrest Gump
 Rocky
 Marvel Movies
+
+Favorite drinks:
+coffee
+milktea
